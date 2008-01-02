@@ -28,6 +28,7 @@ Source13:	http://themes.freshmeat.net/redir/advisorylinux/30090/url_tgz/advisory
 Source14:	http://themes.freshmeat.net/redir/raingutter/36887/url_tgz/raingutter-default-1.0.tar.gz
 
 BuildArch:	noarch
+BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 Requires:	WindowMaker
 
 %description
