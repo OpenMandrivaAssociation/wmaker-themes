@@ -1,6 +1,6 @@
 %define	name	wmaker-themes
 %define	version	0.1
-%define	release	%mkrel 6
+%define	release	%mkrel 7
 %define	summary	Windowmaker Desktop Themes
 %define path    /usr/X11R6/share
 
