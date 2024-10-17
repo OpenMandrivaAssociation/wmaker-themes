@@ -10,7 +10,7 @@ Version:	%{version}
 Release:	%{release}
 License:	GPL
 Group:		Graphical desktop/Other
-URL:		http://www.windowmaker.org
+URL:		https://www.windowmaker.org
 Source0:	http://download.freshmeat.net/themes/wall/wall-0.52.tar.gz   
 Source1:	http://download.freshmeat.net/themes/galaxy__/galaxy__-0.60.0.tar.gz
 Source2:	http://download.freshmeat.net/themes/3dlines/3dlines-0.60.0.tar.gz 
